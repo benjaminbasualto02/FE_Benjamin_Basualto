@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(124, 124, 124);
+}
+
+.TextoInicial{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.parrafo1{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.background{
+    background-image: url('Edificio.jpg');
+}
